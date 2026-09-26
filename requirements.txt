@@ -1,0 +1,13 @@
+# Inferred direct dependencies; versions and compatibility have not been tested.
+Pillow
+keras
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+tensorflow
+torch
+torchvision
+jupyterlab

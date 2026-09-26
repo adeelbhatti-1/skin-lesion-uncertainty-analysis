@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+.env.*
+!.env.example
+*.exe
+*.o
+*.obj
+*.out
+.DS_Store
+Thumbs.db
