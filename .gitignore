@@ -11,3 +11,15 @@ __pycache__/
 *.out
 .DS_Store
 Thumbs.db
+
+# Kaggle credentials and downloaded HAM10000 data
+.kaggle/
+kaggle.json
+access_token
+.cache/kagglehub/
+data/
+datasets/
+HAM10000_images_part_1/
+HAM10000_images_part_2/
+HAM10000_metadata.csv
+*.zip

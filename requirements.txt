@@ -1,13 +1,12 @@
-# Inferred direct dependencies; versions and compatibility have not been tested.
-Pillow
-keras
+# Direct dependencies for the Kaggle-backed HAM10000 notebook.
+# TensorFlow GPU support depends on the host platform; Google Colab supplies it.
+jupyterlab
+kagglehub
 matplotlib
 numpy
 pandas
+Pillow
 scikit-learn
 scipy
 seaborn
 tensorflow
-torch
-torchvision
-jupyterlab
